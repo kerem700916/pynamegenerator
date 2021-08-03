@@ -1,4 +1,4 @@
-# PyNames
+# pynamegenerator
 Biggest dataset about names. Powerfull python library.
 <h2>Usage</h2>
 <hr>
