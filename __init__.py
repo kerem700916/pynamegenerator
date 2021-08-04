@@ -1,0 +1,1 @@
+from pynamegenerator import pynamegenerator
